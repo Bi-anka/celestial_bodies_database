@@ -1,4 +1,3 @@
-
 -- Create the Celestial_Bodies table
 CREATE TABLE Celestial_Bodies (
     id SERIAL PRIMARY KEY,
